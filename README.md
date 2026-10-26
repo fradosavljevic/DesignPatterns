@@ -14,3 +14,9 @@ A clean and educational collection of Gang of Four (GoF) design pattern implemen
 - **Decorator**: Cloud server functionality extension using wrapper layers
 - **Observer**: Server status monitoring and alert notifications
 - **Proxy**: Access-controlled server connection with lazy loading
+- **Builder**: Cloud server construction via a director and specific builders
+- **Abstract Factory**: Multi-cloud component family creation (AWS vs Azure)
+- **Mediator**: Centralized system control and inter-component communication
+- **Memento**: Cloud server configuration state backup and rollback (undo)
+- **Bridge**: Decoupling cloud server abstractions from low-level platform implementations
+- **Flyweight**: Memory optimization via shared server configuration caching
